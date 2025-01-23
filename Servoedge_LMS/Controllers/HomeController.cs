@@ -15,6 +15,7 @@ namespace Servoedge_LMS.Controllers
 
         public IActionResult Index()
         {
+            var data = "";
             return View();
         }
 
